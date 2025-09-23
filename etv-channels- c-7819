@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="etvabhiruchi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvabhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
+https://live.dinesh29.com.np/stream/jiotvplus/etvabhiruchi/master.m3u8 
+#EXTINF:-1 tvg-id="etvlife" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvlife.png" group-title="Infotainment",ETV Life
+https://live.dinesh29.com.np/stream/jiotvplus/etvlife/master.m3u8
+#EXTINF:-1 tvg-id="etvandhrapradesh" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvandhrapradesh.png" group-title="News",ETV Andhra pradesh
+https://live.dinesh29.com.np/stream/jiotvplus/etvandhrapradesh/master.m3u8
+#EXTINF:-1 tvg-id="etvtelugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvtelugu.png" group-title="Entertainment",ETV Telugu
+https://live.dinesh29.com.np/stream/jiotvplus/etvtelugu/master.m3u8
+#EXTINF:-1 tvg-id="etvtelangana" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvtelangana.png" group-title="News",ETV Telangana
+https://live.dinesh29.com.np/stream/jiotvplus/etvtelangana/master.m3u8
+#EXTINF:-1 tvg-id="etvplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvplus.png" group-title="Entertainment",ETV Plus
+https://live.dinesh29.com.np/stream/jiotvplus/etvplus/master.m3u8
+#EXTINF:-1 tvg-id="etvcinemahd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvcinemahd.png" group-title="Movies",ETV Cinema HD 
+https://live.dinesh29.com.np/stream/jiotvplus/etvcinemahd/master.m3u8
+#EXTINF:-1 tvg-id="etvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvhd.png" group-title="Entertainment",ETV HD
+https://live.dinesh29.com.np/stream/jiotvplus/etvhd/master.m3u8
+#EXTINF:-1 tvg-id="etvabhiruchi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etvabalbharat.png" group-title="kids",Etv balbharat
+http://103.182.170.32:8888/play/a022
+
+
+
+
+
+
+
+
